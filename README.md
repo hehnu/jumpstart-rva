@@ -5,7 +5,7 @@ An interactive online social platform for middle school students to connect, mak
 
 
 
-![alt text](https://github.com/hehnu/JumpStartKids-RVA/blob/main/Image%201.png)
+![alt text](https://github.com/hehnu/jumpstart-rva/blob/main/Image%201.png)
 
 
 
