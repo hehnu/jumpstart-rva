@@ -5,22 +5,23 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 
 
-![alt text](https://github.com/hehnu/jumpstart-rva/blob/main/Image%201.png)
-
-
-
-![alt text](https://github.com/hehnu/jumpstart-rva/blob/main/Image%202.png)
-
 
 ![](login.gif)
 
 
 
-![alt text](https://github.com/hehnu/jumpstart-rva/blob/main/Image-3.png)
+
+
+
+![](ui-walkthrough.gif)
 
 
 
 
+
+
+
+![](click-on-home.gif)
 
 
 
