@@ -1,3 +1,54 @@
+# JumpStart - RVA
+An interactive online social platform for middle school students to connect, making exploring career opportunities cool and fun! Connects kids to inspirational people from all over the local area and globe.
+
+
+
+
+
+![alt text](https://github.com/hehnu/JumpStartKids-RVA/blob/main/Image%201.png)
+
+
+
+![alt text](https://github.com/hehnu/JumpStartKids-RVA/blob/main/Image%202.png)
+
+
+
+
+![alt text](https://github.com/hehnu/JumpStartRVA/blob/b62a0a877abc63a84491a7d814488bc0dcaf8553/Image-3.png)
+
+
+[![Watch video here](http://img.youtube.com/vi/_jha3vN174s/0.jpg)](http://www.youtube.com/watch?v=_jha3vN174s)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
