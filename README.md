@@ -1,5 +1,5 @@
 # JumpStart - RVA
-An interactive online social platform for middle school students to connect, making exploring career opportunities cool and fun! Connects kids to inspirational people from all over the local area and globe.
+Welcome to JumpStart RVA! An interactive online social platform for middle school students to connect, making exploring career opportunities cool and fun! Connects kids to inspirational people from all over the local area and globe.
 
 
 
