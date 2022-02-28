@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jumpstart-rva/static/css/main.e3caffc3.css",
+    "main.js": "/jumpstart-rva/static/js/main.3d36c0dc.js",
+    "index.html": "/jumpstart-rva/index.html",
+    "main.e3caffc3.css.map": "/jumpstart-rva/static/css/main.e3caffc3.css.map",
+    "main.3d36c0dc.js.map": "/jumpstart-rva/static/js/main.3d36c0dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3caffc3.css",
+    "static/js/main.3d36c0dc.js"
+  ]
+}
